@@ -1,0 +1,34 @@
+{
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which IIT has the highest placement salary?",
+      "expected_keywords": ["IIT Madras", "46.00"],
+      "expected_source_type": "college_overview"
+    },
+    {
+      "id": "q2",
+      "question": "Tell me about IIT Bombay",
+      "expected_keywords": ["Mumbai", "4.6", "112"],
+      "expected_source_type": "college_overview"
+    },
+    {
+      "id": "q3",
+      "question": "What is the fee for MIT Muzaffarpur?",
+      "expected_keywords": ["22", "1.11"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q4",
+      "question": "What is the NAAC grade of Patna University?",
+      "expected_keywords": ["B+"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q5",
+      "question": "What is the fee for B.Tech at IIT Kanpur?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    }
+  ]
+}
