@@ -1,0 +1,382 @@
+College Data Analysis: Bihar first, then India
+Engineering, medical, management and central institutes (IIT, NIT, IIIT, AIIMS, IIM) | NIRF, NAAC, fees, placements, BSCC, reviews | Compiled 24 September 2026 from open
+web sources
+Read this first. Only NIRF 2025 ranks (Ministry of Education, released 4 Sep 2025) and a few NAAC grades are official-grade data here. NIRF 2026 had not been published as of 24 Sep 2026. Fees,
+placement packages and reviews come from commercial portals (Collegedunia, Shiksha, Careers360, Zollege) and disagree with each other, so they are shown as ranges. Fields I could not verify are
+marked NA - verify. Nothing was estimated or invented.
+1. Key findings
+• Bihar has only two engineering institutions in the NIRF 2025 top 100: IIT Patna (Engineering #19, Overall #36) and NIT Patna (Engineering #53). No Bihar private engineering college
+appears in the ranked list.
+• Bihar's ranked strengths beyond engineering: AIIMS Patna (Medical #27), IIM Bodh Gaya (Management #31), Chanakya National Law University (Law #17), CUSB Gaya (Law #23),
+Rajendra Prasad Central Agricultural University (Agriculture #14).
+• Fee gap is huge. State government engineering colleges (MIT Muzaffarpur, GCE Gaya, Bakhtiyarpur, Chandi) charge roughly Rs 10K to Rs 1.4 lakh in total per portal listings; private
+colleges run from about Rs 2.8 lakh to Rs 16.6 lakh. Placement averages for private colleges are mostly Rs 3.5-6.6 LPA.
+• Medical: government MBBS in Bihar costs from about Rs 5.9K (AIIMS Patna, total) to about Rs 4.5 lakh (IGIMS, total); private colleges such as Netaji Subhas Medical College list totals up
+to about Rs 89 lakh.
+• BSCC (Bihar Student Credit Card): up to Rs 4 lakh, processed through DRCC verification. The interest rate is reported three different ways by secondary sources, so confirm on the
+official portal before quoting it to students (section 6).
+• Nationally: IITs hold the top 8 engineering ranks in NIRF 2025; NIT Tiruchirappalli (#9) is the only NIT in the top 10; BITS Pilani (#11) is the top private institution.
+Page 1
+College Data Analysis - Bihar & India | Compiled 24 Sep 2026 from open web sources | Verify before publishing
+College Data Analysis - Bihar & India | Compiled 24 Sep 2026 from open web sources | Verify before publishing Page 2
+2. Bihar: central and nationally ranked institutions
+All of these are government institutions. Rank source: NIRF 2025 unless stated. Fees are total course fees as listed by portals; placement figures are portal-reported averages.
+Institution City Type Main courses NIRF 2025 NAAC Fee (total course) Placement (avg) Review score BSCC
+IIT Patna Bihta, Patna Central govt
+(IIT)
+B.Tech, M.Tech,
+MSc, PhD
+Engineering #19;
+Overall #36; Research
+#39
+NA - verify Up to ~Rs 9.99 lakh
+(Collegedunia)
+~Rs 25.5 LPA
+(Collegedunia)
+Collegedunia
+B.Tech rank 23
+(2026)
+Govt institute: likely
+eligible - verify
+NIT Patna Patna Central govt
+(NIT)
+B.Tech, B.Arch,
+M.Tech, M.Plan,
+MSc, PhD
+Engineering #53;
+Architecture #13;
+Overall 101-150 band
+NA - verify ~Rs 6.03 lakh B.Tech;
+~Rs 3.57 lakh M.Tech
+(Careers360)
+CSE ~Rs 11.3 LPA
+(2024); other portals
+show ~Rs 6.3-9.9 LPA
+overall
+Careers360 4.0/5
+(75 reviews)
+Govt institute: likely
+eligible - verify
+IIIT Bhagalpur Bhagalpur Govt-funded
+institute
+B.Tech (CSE, ECE,
+etc.)
+Not in top-100 list found NA - verify NA - verify ~Rs 10.35 LPA avg;
+highest Rs 83 LPA
+(Collegedunia)
+NA - verify Govt institute: likely
+eligible - verify
+AIIMS Patna Phulwari
+Sharif, Patna
+Central govt
+(AIIMS)
+MBBS, MD/MS,
+nursing, paramedical
+Medical #27 NA - verify ~Rs 5,856 (MBBS total,
+Collegedunia)
+NA (medical) NA - verify Govt institute: likely
+eligible - verify
+IIM Bodh Gaya Bodh Gaya Central govt
+(IIM)
+MBA, IPM, PhD Management #31 NA - verify NA - verify NA - verify NA - verify Verify
+Chanakya National Law
+University
+Patna State law
+university
+BA LLB, LLM Law #17 NA - verify NA - verify NA - verify NA - verify Verify
+Central University of
+South Bihar (CUSB)
+Gaya Central
+university
+General, law,
+sciences
+Law #23 NA - verify NA - verify NA - verify NA - verify Govt institute: likely
+eligible - verify
+Dr. Rajendra Prasad
+Central Agricultural
+University
+Pusa,
+Samastipur
+Central
+university
+Agriculture and allied Agriculture #14;
+University band
+101-150
+NA - verify NA - verify NA - verify NA - verify Verify
+Bihar Agricultural
+University
+Sabour,
+Bhagalpur
+State
+university
+Agriculture Agriculture #36 NA - verify NA - verify NA - verify NA - verify Verify
+Amity University Patna Patna Private Management and
+others
+Management 101-125
+band
+NA - verify NA - verify NA - verify NA - verify Verify
+Patna Women's
+College
+Patna Autonomous
+college
+UG/PG arts, science,
+commerce
+College category,
+~101+ band (exact
+band: verify on
+nirfindia.org)
+NA - verify NA - verify NA NA - verify Verify
+Sources: NIRF 2025 results as reported by Fielut (4 Sep 2025) and Careers360 (IIT Patna Engineering 19; NIT Patna Engineering 53, Architecture 13); fee and placement figures from Collegedunia and Careers360
+pages dated Feb-Mar 2026.
+College Data Analysis - Bihar & India | Compiled 24 Sep 2026 from open web sources | Verify before publishing Page 3
+3. Bihar engineering: state government and private colleges
+Admission is through JEE Main-based UGEAC counselling (some portals still list BCECE). Portals report fees and placements on different bases (per year vs total, median vs average), so where they conflict both
+values are shown. None of these colleges appears in the NIRF 2025 engineering top 100.
+College City / district Govt /
+private
+Fee reported by portals Placement reported Review score
+(sample size)
+NIRF / NAAC BSCC
+Muzaffarpur Institute of Technology
+(MIT)
+Muzaffarpur State govt Rs 22K (Collegedunia) to Rs 1.11
+lakh (Shiksha); Zollege shows Rs
+5.5K
+Median Rs 4.28 LPA (Shiksha);
+avg ~Rs 7 LPA (Collegedunia)
+Zollege 7.0/10 (18) Not ranked / NA - verify Likely eligible - verify
+Bakhtiyarpur College of Engineering Patna dist. State govt ~Rs 1.4 lakh (Shiksha, Zollege) NA - verify Zollege 8.3/10 (7, small
+sample)
+Not ranked / NA - verify Likely eligible - verify
+Gaya College of Engineering (GCE) Gaya State govt ~Rs 10.5K (Shiksha, Zollege
+agree)
+NA - verify Zollege 7.3/10 (20) Not ranked / NA - verify Likely eligible - verify
+Nalanda College of Engineering
+(NCE)
+Chandi, Nalanda State govt ~Rs 13.9K B.Tech; ~Rs 22.2K
+M.Tech (Zollege)
+NA - verify Zollege 6.7/10 (10) Not ranked / NA - verify Likely eligible - verify
+Bhagalpur College of Engineering
+(BCE)
+Bhagalpur State govt NA - verify (portals conflict) NA - verify NA - verify Not ranked / NA - verify Likely eligible - verify
+GCE Siwan, RRSDCE Begusarai,
+GEC Kishanganj
+Siwan, Begusarai,
+Kishanganj
+State govt ~Rs 10K, Rs 12.2K, Rs 14.8K
+(Collegedunia)
+NA - verify NA - verify Not ranked / NA - verify Likely eligible - verify
+DCE Darbhanga Darbhanga State govt NA - verify Avg ~Rs 3.36 LPA
+(Collegedunia, lowest listed)
+NA - verify Not ranked / NA - verify Likely eligible - verify
+BIT Patna (Birla Institute of
+Technology, Patna campus)
+Patna Private Up to ~Rs 16.59 lakh
+(Collegedunia)
+Avg ~Rs 6.58 LPA
+(Collegedunia)
+NA - verify Not ranked in NIRF top 100
+/ NA - verify
+Verify on BSCC list
+NSIT (Netaji Subhas Institute of
+Technology)
+Patna Private NA - verify Avg ~Rs 3.6 LPA (Collegedunia) NA - verify NA - verify Verify on BSCC list
+SIT Aurangabad Aurangabad Private NA - verify Avg ~Rs 3.6 LPA (Collegedunia) NA - verify NA - verify Verify on BSCC list
+MIT Purnea Purnea Private ~Rs 2.8 lakh (Collegedunia,
+lowest private)
+NA - verify NA - verify NA - verify Verify on BSCC list
+Portal-reported ranges: Collegedunia lists Bihar government engineering fees from Rs 22.1K to Rs 9.99 lakh (IIT Patna) and private fees from Rs 2.8 lakh to Rs 16.59 lakh; average placement packages from Rs 3.36
+LPA to Rs 25.52 LPA across the state (Collegedunia, Feb 2026). Shiksha and Collegedekho give lower averages (about Rs 3-6.3 LPA) for the mid-tier colleges. Bihar has roughly 80+ B.Tech colleges (Shiksha, Jun
+2026); this table covers the ones with usable data.
+College Data Analysis - Bihar & India | Compiled 24 Sep 2026 from open web sources | Verify before publishing Page 4
+4. Bihar medical colleges (MBBS)
+Counts differ by source: one portal lists 13 government MBBS colleges (including AIIMS Patna and ESIC Bihta), another counts 29 government institutions across all medical streams. Seat figures below are
+portal-reported; check NMC and the BCECEB/UGMAC seat matrix before use.
+College City Govt / private MBBS seats (reported) Fee reported NIRF / NAAC Notes
+AIIMS Patna Patna Central govt ~125 (AIIMS seats in Bihar,
+mbbscouncil)
+~Rs 5,856 total NIRF Medical #27
+(2025)
+NEET cutoff typically very high
+(660-700+ general, per MOKSH)
+Patna Medical College & Hospital
+(PMCH)
+Patna State govt 200 (NMC listing per
+Alladmission) or 250 (another
+portal)
+~Rs 20K per year Not ranked / NA - verify UGMAC 2026 Round 1 general
+closing rank reported ~5,304
+IGIMS Patna State govt
+(autonomous)
+100-120 ~Rs 1.2 lakh per year; up to ~Rs
+4.48 lakh total
+Not ranked / NA - verify Autonomous university status
+Nalanda Medical College (NMCH) Patna State govt 150 ~Rs 15K per year Not ranked / NA - verify Frequently preferred for low fees
+Darbhanga Medical College (DMCH) Darbhanga State govt 100 NA - verify Not ranked / NA - verify Serves Mithila region
+Anugrah Narayan Magadh Medical
+College (ANMMCH)
+Gaya State govt 100-150 NA - verify Not ranked / NA - verify
+Other govt medical colleges Bhagalpur, Muzaffarpur,
+Saharsa, Bettiah,
+Madhubani, Purnea,
+Nalanda (VIMS), Bihta
+(ESIC)
+State / ESIC 100-150 each (per
+nmchpatna.org)
+Govt MBBS tuition ~Rs 1.6K to
+Rs 60K per year (careermarg)
+NA - verify Seat counts vary by portal
+Katihar Medical College Katihar Private NA - verify NA - verify NA - verify Among the oldest private colleges in
+Bihar (Shikshamed)
+Netaji Subhas Medical College (NSMCH) Patna Private NA - verify Up to ~Rs 89.26 lakh total
+(Collegedunia)
+NA - verify Highest total fee in the state list
+Bihar seat totals reported by one counselling portal (Jun 2026): about 125 Govt-AIIMS, 1,420 Govt-State, 100 Govt-Aided and 1,900 private MBBS seats. Private-college NEET scores accepted under management
+quota are reported around 300-450 (MOKSH, Jul 2026). Treat as indicative.
+5. Bihar universities and NAAC grades (only what could be verified)
+University / college Location Type NAAC grade found Source / caveat
+Patna University Patna State university B+ (first cycle, 2019) Wikipedia citing NAAC; check for a newer cycle on naac.gov.in
+Magadh University Bodh Gaya State university C Wikipedia infobox; verify cycle and year
+A N College Patna Constituent/affiliated college A+ (CGPA 3.36/4, reported) From a Wikipedia biography with a citation-needed tag; treat as unverified
+Aryabhatta Knowledge University (AKU) Patna State (professional) university NA - verify Affiliates non-engineering, non-medical professional colleges
+Bihar Engineering University (BEU) Patna State technical university NA - verify Established 2021; a portal banner showing 'A++' on the page belongs to
+another advertised institution, not BEU
+Other state universities: BRABU, LNMU, Tilka Manjhi
+Bhagalpur, Patliputra, Munger, Purnea, CNLU
+Various State universities NA - verify Pull from the NAAC accredited-institutions list
+Private / deemed: Amity Patna, Al-Karim, CV Raman,
+Gopal Narayan Singh, KK, Mata Gujri, Sandip
+Various Private NA - verify Named by AglaSem as private universities in Bihar
+6. Bihar Student Credit Card (BSCC): what is confirmed and what conflicts
+Broadly agreed across sources
+• Loan up to Rs 4 lakh, no collateral. Launched 2 Oct 2016 under the 7 Nishchay programme; apply on 7nishchay-yuvaupmission.bihar.gov.in (official portal), then complete DRCC (District
+Registration and Counselling Centre) verification with admission proof.
+• Applicant must be a Bihar resident who has passed Class 12; a confirmed admission letter is needed; a maximum age of 25 at application is reported by one source.
+• Valid for recognised institutions across India, not only in Bihar. MeriShiksha publishes state-wise pages (Uttar Pradesh, Maharashtra, Jharkhand); its Uttar Pradesh page states about 150
+eligible colleges in UP.
+Conflicting: interest rate (confirm on the official portal before publishing)
+Claim
+Source type
+4% for general students, 1% for girls, transgender and PwD applicants
+GlobalDrishti, thenewsfetcher (secondary)
+Date shown
+May 2026 / undated
+0% interest for all students from September 2025; older loans stay at 4% / 1%; repayment 7 years up to Rs 2 lakh, 10
+years above
+SkillUPBihar, MeriShiksha (secondary)
+Jun-Aug 2026
+0% for girls, PwD and transgender applicants; 1% simple interest for boys; '4%' described as outdated
+College-level BSCC column: how to fill it
+egovtschemes.com (secondary)
+May 2026
+• One portal states that central and state universities, NITs, IITs, AIIMS and government polytechnics are automatically eligible; private institutions need recognition (UGC/AICTE/NMC) and
+must appear on the DRCC-approved list, and one portal says NBA accreditation is mandatory for private B.Tech colleges. These are secondary statements, not the scheme's own
+guidelines.
+• Recommended tagging in your database: Yes (verified) only when the college appears in the official DRCC/portal list; Likely for government institutions; Verify for every private college.
+The tables above use exactly these three labels.
+• The official guidelines page lists a circular dated 17.10.2025 (Letter No. 355), which is the first document to read for current rules.
+Page 5
+College Data Analysis - Bihar & India | Compiled 24 Sep 2026 from open web sources | Verify before publishing
+College Data Analysis - Bihar & India | Compiled 24 Sep 2026 from open web sources | Verify before publishing Page 6
+7. National benchmark: IIT, NIT, IIIT, medical, management (NIRF 2025)
+Total counselling pool: 127 institutes (23 IITs, 31 NITs, 26 IIITs, 47 GFTIs) with about 59,937 B.Tech seats in JoSAA (Competishun, snippet). NIRF ranks exact positions only up to 100; below that, colleges are listed
+in bands (101-150, 151-200, 201-300).
+Engineering top 10 and notable others
+NIRF Eng. 2025 Institution State Type Comment
+1 IIT Madras Tamil Nadu IIT #1 for 10 consecutive years; score 88.72 per one portal
+2 IIT Delhi Delhi IIT
+3 IIT Bombay Maharashtra IIT
+4 IIT Kanpur Uttar Pradesh IIT
+5 IIT Kharagpur West Bengal IIT
+6 IIT Roorkee Uttarakhand IIT
+7 IIT Hyderabad Telangana IIT Overtook IIT Guwahati in 2025
+8 IIT Guwahati Assam IIT
+9 NIT Tiruchirappalli Tamil Nadu NIT Only NIT in the top 10
+10 IIT (BHU) Varanasi Uttar Pradesh IIT Held #10 from 2024
+11 BITS Pilani Rajasthan Private Top private institution (ipsr solutions)
+16 VIT Tamil Nadu Private ipsr solutions
+19 IIT Patna Bihar IIT Best in Bihar
+53 NIT Patna Bihar NIT Second in Bihar
+Cost and outcomes reference points from portals: IIT total B.Tech cost is about Rs 8-10 lakh before waivers (IIT Patna listed up to Rs 9.99 lakh); NIT total about Rs 6 lakh (NIT Patna Rs 6.03 lakh). Full fee waivers at
+IIT Patna are reported for family income under Rs 5 lakh a year, with partial waivers up to Rs 9 lakh (a blog; verify with the institute).
+Medical and management
+Category NIRF 2025 top positions (verified) Other notes
+Medical 1 AIIMS Delhi (8th year at #1); 2 PGIMER Chandigarh; 3 CMC Vellore (top three unchanged); 7 NIMHANS Bengaluru; 8
+King George's Medical University Lucknow
+AIIMS Rishikesh 13, Bhubaneswar 14, Bhopal 25, Patna 27, Raipur 31 (iQuanta)
+Management 1 IIM Ahmedabad; 2 IIM Bangalore; 3 IIM Kozhikode IIM Bodh Gaya #31; IIT Delhi in the top 5
+Overall 1 IIT Madras; 2 IISc Bengaluru; 3 IIT Bombay; 4 IIT Delhi; 5 IIT Kanpur IIT Patna Overall #36
+College Data Analysis - Bihar & India | Compiled 24 Sep 2026 from open web sources | Verify before publishing Page 7
+8. All 28 states: central institute directory (phase 2 starting point)
+This is a structural directory of flagship central institutes by state (IIT, NIT, AIIMS, IIM and top institutions), compiled from general knowledge and cross-checked only where NIRF ranks are shown. It is not a ranking,
+contains no fee or placement data, and the AIIMS/IIM columns are not exhaustive. Each state still needs the same per-college table built for Bihar.
+State IIT / top technical NIT AIIMS IIM / other flagship
+Andhra Pradesh IIT Tirupati (Eng #57, Careers360 listing) NIT Andhra Pradesh (Tadepalligudem) AIIMS Mangalagiri IIM Visakhapatnam
+Arunachal Pradesh-NIT Arunachal Pradesh--
+Assam IIT Guwahati (#8) NIT Silchar AIIMS Guwahati
+Bihar IIT Patna (#19) NIT Patna (#53) AIIMS Patna (Medical #27) IIM Bodh Gaya (#31)
+Chhattisgarh IIT Bhilai NIT Raipur AIIMS Raipur (#31) IIM Raipur
+Goa IIT Goa NIT Goa--
+Gujarat IIT Gandhinagar SVNIT Surat AIIMS Rajkot IIM Ahmedabad (#1)
+Haryana-NIT Kurukshetra--
+Himachal Pradesh IIT Mandi NIT Hamirpur AIIMS Bilaspur
+Jharkhand IIT (ISM) Dhanbad NIT Jamshedpur AIIMS Deoghar IIM Ranchi
+Karnataka IIT Dharwad; IISc Bengaluru (Overall #2) NIT Karnataka (Surathkal)-IIM Bangalore (#2)
+Kerala IIT Palakkad NIT Calicut-IIM Kozhikode (#3)
+Madhya Pradesh IIT Indore MANIT Bhopal AIIMS Bhopal (#25) IIM Indore
+Maharashtra IIT Bombay (#3) VNIT Nagpur AIIMS Nagpur IIM Nagpur
+Manipur-NIT Manipur--
+Meghalaya-NIT Meghalaya-IIM Shillong
+Mizoram-NIT Mizoram--
+Nagaland-NIT Nagaland--
+Odisha IIT Bhubaneswar NIT Rourkela AIIMS Bhubaneswar (#14) IIM Sambalpur
+Punjab IIT Ropar NIT Jalandhar AIIMS Bathinda IIM Amritsar
+Rajasthan IIT Jodhpur; BITS Pilani (#11, private) MNIT Jaipur AIIMS Jodhpur IIM Udaipur
+Sikkim-NIT Sikkim--
+Tamil Nadu IIT Madras (#1) NIT Tiruchirappalli (#9)-IIM Tiruchirappalli; VIT (#16); CMC Vellore (Medical #3)
+Telangana IIT Hyderabad (#7) NIT Warangal AIIMS Bibinagar
+Tripura-NIT Agartala--
+Uttar Pradesh IIT Kanpur (#4); IIT BHU (#10) MNNIT Allahabad AIIMS Gorakhpur IIM Lucknow; KGMU (Medical #8)
+Uttarakhand IIT Roorkee (#6) NIT Uttarakhand AIIMS Rishikesh (#13) IIM Kashipur
+West Bengal IIT Kharagpur (#5) NIT Durgapur AIIMS Kalyani IIM Calcutta; Jadavpur University
+Union territories not in the 28: Delhi (IIT Delhi, AIIMS Delhi, IIIT Delhi, DTU, NSUT), Chandigarh (PGIMER, Medical #2), Puducherry (JIPMER, NIT Puducherry), Jammu and Kashmir (NIT Srinagar, IIT Jammu, IIM
+Jammu). Numbers in brackets are NIRF 2025 ranks in the relevant category from sections 2 and 7.
+9. Data gaps and the free official sources to close them
+Field
+Status in this report
+Best free source to fill it
+College master list (all Bihar colleges, government and
+private)
+NAAC grade
+Not complete; only ~40 named institutions covered
+Verified for only 3 Bihar institutions
+AISHE (aishe.gov.in) college list, filtered by state and district; AICTE approved-institutions
+dashboard for engineering; NMC list for medical
+NAAC accredited-institutions list (naac.gov.in), cycle and validity date per college
+NIRF rank
+Fees
+Verified for the top-100 institutions and Bihar's ranked ones
+Portal ranges only; portals disagree
+nirfindia.org PDFs per category; NIRF data also has fee and placement tables for participating
+colleges
+College websites and BCECEB/UGEAC fee schedules; NMC/state fee notification for MBBS
+Placement
+BSCC acceptance
+Portal averages only; no verified data for private colleges
+Rule-based tags only (Yes/Likely/Verify)
+NIRF submitted data (graduation outcomes) for ranked colleges; college placement reports
+Official 7 Nishchay portal college list and the 17.10.2025 circular
+Reviews
+Other 27 states
+A few portal scores with small samples (7-75 reviews)
+Directory of central institutes only
+Your own verified student reviews after launch, so ratings are first-party and not scraped
+Repeat the Bihar method state by state, starting with the largest student-migration destinations for
+Bihar (for example Uttar Pradesh, Jharkhand, Delhi, Maharashtra, Karnataka)
+Suggested next step: pull the AISHE Bihar college list plus the NAAC list into one table keyed by AISHE code, then layer NIRF, fees and BSCC status column by column. If you want, I can
+build that Bihar master sheet next in Excel or CSV so it can be loaded straight into your database.
+Source notes: NIRF ranks - Careers360 news (4 Sep 2025), Fielut/Times of India report of Bihar results (4 Sep 2025), ipsr solutions, iQuanta, Buddy4Study, nirfindia.org. Fees, placements, reviews - Collegedunia
+(Feb 2026), Shiksha (Jun 2026), Careers360, Zollege, Collegedekho, MOKSH, mbbscouncil, careermarg. NAAC - Wikipedia pages. BSCC - 7 Nishchay portal, MeriShiksha, SkillUPBihar, egovtschemes,
+GlobalDrishti. Secondary and commercial sites can be wrong or promotional; verify anything you publish.
+Page 8
+College Data Analysis - Bihar & India | Compiled 24 Sep 2026 from open web sources | Verify before publishing
