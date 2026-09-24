@@ -29,6 +29,156 @@
       "question": "What is the fee for B.Tech at IIT Kanpur?",
       "expected_keywords": ["don't have enough information"],
       "expected_source_type": "none"
+    },
+    {
+      "id": "q6",
+      "question": "What is the rating of IIT Delhi?",
+      "expected_keywords": ["4.5"],
+      "expected_source_type": "college_overview"
+    },
+    {
+      "id": "q7",
+      "question": "Where is IIT Madras located?",
+      "expected_keywords": ["Chennai"],
+      "expected_source_type": "college_overview"
+    },
+    {
+      "id": "q8",
+      "question": "How many courses does IIT Bombay offer?",
+      "expected_keywords": ["112"],
+      "expected_source_type": "college_overview"
+    },
+    {
+      "id": "q9",
+      "question": "What is the median salary range for IIT Delhi graduates?",
+      "expected_keywords": ["15.59", "24.30"],
+      "expected_source_type": "college_overview"
+    },
+    {
+      "id": "q10",
+      "question": "Is IIT Bombay a public or private institution?",
+      "expected_keywords": ["public"],
+      "expected_source_type": "college_overview"
+    },
+    {
+      "id": "q11",
+      "question": "What is the NIRF engineering rank of IIT Patna?",
+      "expected_keywords": ["19"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q12",
+      "question": "What is the NIRF engineering rank of NIT Patna?",
+      "expected_keywords": ["53"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q13",
+      "question": "What is the NIRF medical rank of AIIMS Patna?",
+      "expected_keywords": ["27"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q14",
+      "question": "What is the total fee for MBBS at AIIMS Patna?",
+      "expected_keywords": ["5,856"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q15",
+      "question": "How much can a student borrow under BSCC?",
+      "expected_keywords": ["4 lakh"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q16",
+      "question": "What is the NIRF management rank of IIM Bodh Gaya?",
+      "expected_keywords": ["31"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q17",
+      "question": "What is the NIRF law rank of Chanakya National Law University?",
+      "expected_keywords": ["17"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q18",
+      "question": "Which IIT is ranked #1 in NIRF 2025 engineering?",
+      "expected_keywords": ["IIT Madras"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q19",
+      "question": "What is the NIRF rank of BITS Pilani in engineering?",
+      "expected_keywords": ["11"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q20",
+      "question": "How many MBBS seats does Patna Medical College have?",
+      "expected_keywords": ["200", "250"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q21",
+      "question": "What is the fee range for private engineering colleges in Bihar?",
+      "expected_keywords": ["2.8", "16.59"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q22",
+      "question": "What is the fee range for state government engineering colleges in Bihar?",
+      "expected_keywords": ["10K", "1.4 lakh"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q23",
+      "question": "What is the NAAC grade of Magadh University?",
+      "expected_keywords": ["C"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q24",
+      "question": "What is the NIRF agriculture rank of Dr. Rajendra Prasad Central Agricultural University?",
+      "expected_keywords": ["14"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q25",
+      "question": "What is the total fee for MBBS at Netaji Subhas Medical College?",
+      "expected_keywords": ["89"],
+      "expected_source_type": "bihar_colleges"
+    },
+    {
+      "id": "q26",
+      "question": "What is the highest median salary at IIT Hyderabad?",
+      "expected_keywords": ["28.99"],
+      "expected_source_type": "college_overview"
+    },
+    {
+      "id": "q27",
+      "question": "What is the highest median salary at IIT Guwahati?",
+      "expected_keywords": ["34.10"],
+      "expected_source_type": "college_overview"
+    },
+    {
+      "id": "q28",
+      "question": "What is the rating of IIT Kharagpur?",
+      "expected_keywords": ["4.5"],
+      "expected_source_type": "college_overview"
+    },
+    {
+      "id": "q29",
+      "question": "What is the placement salary at IIT Palakkad?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "q30",
+      "question": "What is the fee for a PhD at IIT Delhi?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
     }
   ]
 }
