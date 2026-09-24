@@ -9,7 +9,7 @@ from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 load_dotenv()
 
 CHROMA_DIR = "chroma_db"
-COLLECTION_NAME = "iit_colleges"
+COLLECTION_NAME = "colleges"
 
 # ----- 1. Load vector store -----
 embeddings = OpenAIEmbeddings(model="text-embedding-3-small")
@@ -47,7 +47,8 @@ def extract_sources(docs):
     seen = set()
     for doc in docs:
         url = doc.metadata.get("source_url")
-        name = doc.metadata.get("college_name")
+        # Try college_name first, fall back to source field
+        name = doc.metadata.get("college_name") or doc.metadata.get("source")
         if url and url not in seen:
             sources.append({"college": name, "url": url})
             seen.add(url)
@@ -65,8 +66,11 @@ def rag_with_sources(question: str) -> dict:
         "question": question
     })
 
-    # Step 3: extract sources
-    sources = extract_sources(docs)
+    # Step 3: only include sources if the LLM gave a real answer
+    if "don't have enough information" in answer.lower() or "i don't know" in answer.lower():
+        sources = []
+    else:
+        sources = extract_sources(docs)
 
     return {
         "answer": answer,
@@ -78,6 +82,8 @@ if __name__ == "__main__":
     questions = [
         "Which IIT has the highest placement salary?",
         "Tell me about IIT Bombay",
+        "What is the fee for MIT Muzaffarpur?",
+        "What is the NAAC grade of Patna University?",
         "What is the fee for B.Tech at IIT Kanpur?",
     ]
 
@@ -88,6 +94,8 @@ if __name__ == "__main__":
         result = rag_with_sources(q)
         print(f"A: {result['answer']}")
         print(f"\nSources:")
+        if not result["sources"]:
+            print("  (no sources — answer not grounded in retrieved context)")
         for src in result["sources"]:
             print(f"  - {src['college']}")
             print(f"    {src['url']}")
