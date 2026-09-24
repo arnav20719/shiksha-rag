@@ -121,10 +121,10 @@
       "expected_source_type": "bihar_colleges"
     },
     {
-     "id": "q21",
-     "question": "What is the fee range for private engineering colleges in Bihar?",
-     "expected_keywords": ["2.8"],
-     "expected_source_type": "bihar_colleges"
+      "id": "q21",
+      "question": "What is the fee range for private engineering colleges in Bihar?",
+      "expected_keywords": ["2.8"],
+      "expected_source_type": "bihar_colleges"
     },
     {
       "id": "q22",
@@ -169,14 +169,74 @@
       "expected_source_type": "college_overview"
     },
     {
-     "id": "q29",
-     "question": "What is the placement salary at IIT Palakkad?",
-     "expected_keywords": ["no"],
-     "expected_source_type": "college_overview"
+      "id": "q29",
+      "question": "What is the placement salary at IIT Palakkad?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
     },
     {
       "id": "q30",
       "question": "What is the fee for a PhD at IIT Delhi?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "adv1",
+      "question": "What is the placement package at IIT Bombay for CSE specifically in 2024?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "adv2",
+      "question": "Compare IIT Bombay and Stanford University",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "adv3",
+      "question": "What is the hostel fee at IIT Delhi?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "adv4",
+      "question": "What is the cutoff for JEE Advanced 2026?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "adv5",
+      "question": "Which college has the best food in Bihar?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "adv6",
+      "question": "What is the fee at Harvard University?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "adv7",
+      "question": "What is the salary of the principal at IIT Madras?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "adv8",
+      "question": "Which is better, IIT Bombay or IIT Delhi?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "adv9",
+      "question": "What scholarships does the Bihar government offer for SC students?",
+      "expected_keywords": ["don't have enough information"],
+      "expected_source_type": "none"
+    },
+    {
+      "id": "adv10",
+      "question": "What is the acceptance rate at IIT Kharagpur?",
       "expected_keywords": ["don't have enough information"],
       "expected_source_type": "none"
     }
