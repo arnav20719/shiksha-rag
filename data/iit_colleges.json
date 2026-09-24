@@ -1,0 +1,48 @@
+{
+  "status": "success",
+  "data": {
+    "query": "IIT",
+    "intent": "basicinfo",
+    "heading": "Check college details",
+    "total_results": 30,
+    "redirect_url": null,
+    "colleges": [
+      {
+        "name": "IIT Bombay - Indian Institute of Technology",
+        "location": "Mumbai",
+        "ownership": "public",
+        "url": "https://www.shiksha.com/university/iit-bombay-indian-institute-of-technology-mumbai-54212?isource=SRP",
+        "rating": "4.6",
+        "course_count": 112,
+        "median_salary": "₹15.00 - ₹19.63 LPA",
+        "min_median_salary": 1500000,
+        "max_median_salary": 1963000,
+        "placement_above_8lpa": true
+      },
+      {
+        "name": "IIT Madras - Indian Institute of Technology",
+        "location": "Chennai",
+        "ownership": "public",
+        "url": "https://www.shiksha.com/college/iit-madras-indian-institute-of-technology-adyar-chennai-3031?isource=SRP",
+        "rating": "4.6",
+        "course_count": 111,
+        "median_salary": "₹7.20 - ₹46.00 LPA",
+        "min_median_salary": 720000,
+        "max_median_salary": 4600000,
+        "placement_above_8lpa": true
+      },
+      {
+        "name": "IIT Delhi - Indian Institute of Technology",
+        "location": "Delhi",
+        "ownership": "public",
+        "url": "https://www.shiksha.com/university/iit-delhi-indian-institute-of-technology-53938?isource=SRP",
+        "rating": "4.5",
+        "course_count": 119,
+        "median_salary": "₹15.59 - ₹24.30 LPA",
+        "min_median_salary": 1559000,
+        "max_median_salary": 2430000,
+        "placement_above_8lpa": true
+      }
+    ]
+  }
+}
