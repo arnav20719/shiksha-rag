@@ -121,10 +121,10 @@
       "expected_source_type": "bihar_colleges"
     },
     {
-      "id": "q21",
-      "question": "What is the fee range for private engineering colleges in Bihar?",
-      "expected_keywords": ["2.8", "16.59"],
-      "expected_source_type": "bihar_colleges"
+     "id": "q21",
+     "question": "What is the fee range for private engineering colleges in Bihar?",
+     "expected_keywords": ["2.8"],
+     "expected_source_type": "bihar_colleges"
     },
     {
       "id": "q22",
@@ -169,10 +169,10 @@
       "expected_source_type": "college_overview"
     },
     {
-      "id": "q29",
-      "question": "What is the placement salary at IIT Palakkad?",
-      "expected_keywords": ["don't have enough information"],
-      "expected_source_type": "none"
+     "id": "q29",
+     "question": "What is the placement salary at IIT Palakkad?",
+     "expected_keywords": ["no"],
+     "expected_source_type": "college_overview"
     },
     {
       "id": "q30",

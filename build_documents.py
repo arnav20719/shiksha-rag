@@ -10,7 +10,7 @@ def load_colleges(path: str) -> list[dict]:
 def college_to_document(college: dict) -> Document:
     """Convert a single college dict into a LangChain Document."""
     # Handle missing values gracefully
-    salary = college.get("median_salary") or "Not available"
+    salary = college.get("median_salary") or "Not available in source data"
     rating = college.get("rating") or "Not rated"
     ownership = college.get("ownership") or "Not specified"
     
