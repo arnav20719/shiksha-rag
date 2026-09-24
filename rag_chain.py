@@ -18,8 +18,8 @@ vectorstore = Chroma(
     embedding_function=embeddings,
     persist_directory=CHROMA_DIR
 )
-retriever = vectorstore.as_retriever(search_kwargs={"k": 5})
-
+from hybrid_retriever import build_hybrid_retriever
+retriever = build_hybrid_retriever()
 # ----- 2. Initialize LLM -----
 llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
