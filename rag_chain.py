@@ -4,7 +4,6 @@ from langchain_openai import OpenAIEmbeddings, ChatOpenAI
 from langchain_community.vectorstores import Chroma
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import StrOutputParser
-from langchain_core.runnables import RunnablePassthrough, RunnableLambda
 
 load_dotenv()
 
@@ -18,8 +17,10 @@ vectorstore = Chroma(
     embedding_function=embeddings,
     persist_directory=CHROMA_DIR
 )
-from hybrid_retriever import build_hybrid_retriever
-retriever = build_hybrid_retriever()
+
+# Vector-only retriever (hybrid removed — didn't improve this dataset)
+retriever = vectorstore.as_retriever(search_kwargs={"k": 8})
+
 # ----- 2. Initialize LLM -----
 llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
@@ -47,7 +48,6 @@ def extract_sources(docs):
     seen = set()
     for doc in docs:
         url = doc.metadata.get("source_url")
-        # Try college_name first, fall back to source field
         name = doc.metadata.get("college_name") or doc.metadata.get("source")
         if url and url not in seen:
             sources.append({"college": name, "url": url})
