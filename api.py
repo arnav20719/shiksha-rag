@@ -14,7 +14,7 @@ async def lifespan(app: FastAPI):
     print("STARTUP: Building vector store...")
     print("=" * 60)
     try:
-        rebuild()
+        rebuild(force=True)
         print("=" * 60)
         print("STARTUP: Vector store ready.")
         print("=" * 60)
